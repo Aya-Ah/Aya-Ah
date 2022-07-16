@@ -42,5 +42,5 @@
 
 <h4>✨ Github Stats</h4>
 
-| <a href="https://github.com/Aya-ah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=A-yot&theme=tokyonight&show_icons=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/A-yot/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aya-ah&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/Aya-ah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aya-ah&theme=tokyonight&show_icons=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Aya-ah/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aya-ah&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
