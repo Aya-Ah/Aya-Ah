@@ -8,6 +8,7 @@
 
 <h4> A developer who like to keep herself busy by building stuff  </h4>
 
+- 🔭 I’m currently working on Freelancing Platform
 - ![ai (1)](https://user-images.githubusercontent.com/57912134/177229957-b0ba99c0-a9d8-45e2-9b06-530ae9d6bd83.png) Interested in Ai and Deep learning
 - 🌱 currently learning React, NodeJS
 -  ![send](https://user-images.githubusercontent.com/57912134/177230333-0ada4e74-f43f-4b1e-a939-ff0c7cfe9c5f.png) you can reach me on aya.a.h.s.a.n13@gmail.com
